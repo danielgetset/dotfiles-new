@@ -1,5 +1,5 @@
 # Ignorera automatiskt genererade eller maskinspecifika filer
-~/.config/nvim/lazy-lock.lua
+~/.config/nvim/lazy-lock.json
 ~/.config/nvim/undodir/
 ~/.local/share/nvim/
 ~/.cache/
