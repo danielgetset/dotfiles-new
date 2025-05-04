@@ -1,0 +1,6 @@
+# Ignorera genererade filer
+dot_config/nvim/lazy-lock.lua
+dot_config/nvim/undodir/
+dot_local/share/
+dot_cache/
+dot_local/state/
