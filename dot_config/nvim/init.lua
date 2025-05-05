@@ -26,3 +26,6 @@ require("treesitter")
 
 -- Ladda Formatter
 require("format");
+
+-- Ladda debug-konfigurationen
+require('dap-config')
